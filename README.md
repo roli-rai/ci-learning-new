@@ -1,2 +1,2 @@
 # ci-learning-new
-codelgniter mini project
+This is my first codelgniter mini project
